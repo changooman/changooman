@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Andre
-- 🎓 Recently graduated with a Bachelor of Science in Computer Science and Media Arts
-- 👀 I’m interested in full-time Python developer roles
-- 📫 You can reach me by <a href="mailto:changooman@gmail.com">email</a>
+ 👋😊 Welcome and thank you for visiting my page!
+ * 👫 Pronouns: He/Him
+ * 🎓 Recently graduated with a Bachelor of Science in Computer Science and Media Arts
+ * 👀 I’m interested in full-time Python developer roles
+ * 📫 You can reach me by <a href="mailto:changooman@gmail.com">email</a>
 
 <!---
 changooman/changooman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
