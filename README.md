@@ -3,8 +3,8 @@
  * 🎓 Recently graduated from Northeastern University with a Bachelor of Science in Computer Science and Media Arts
  * 👀 I’m interested in full-time Python developer roles
  * 📫 You can reach me by <a href="mailto:changooman@gmail.com">email</a>
+ * 🔗 My linked in is: https://www.linkedin.com/in/realandredangi/
  
- ![image](https://user-images.githubusercontent.com/22184390/134442637-574c3166-c22f-4614-a5e2-4e1c35d28585.png)(https://www.linkedin.com/in/realandredangi/)
 
  
 
