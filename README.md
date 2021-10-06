@@ -1,5 +1,5 @@
  👋😊 Welcome and thank you for visiting my page!
- * 👫 Pronouns: He/Him
+ * 👫 Pronouns: He/Him/His
  * 🎓 Recently graduated with a Bachelor of Science in Computer Science and Media Arts from Northeastern University
  * 👀 I’m interested in full-time Python developer roles
  * 📫 You can reach me by <a href="mailto:changooman@gmail.com">email</a>
