@@ -13,7 +13,7 @@ Welcome to BuildTrack Insights! This project offers a comprehensive view of hist
 ## Features
 
 - View historical data on new construction sales.
-- Explore unique home sales count, median sale prices, and price per square foot.
+- Explore unique home sales count, median sale prices, price per square foot, and mean sale price.
 - Filter data by geographic regions such as state and city.
 
 ## Technologies Used
