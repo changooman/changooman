@@ -9,7 +9,8 @@
 # Ongoing Projects
 <img src="https://i.imgur.com/IUS0EcI.png" alt="BuildTrack Insights Logo" width="400" height="400">
 
-Welcome to BuildTrack Insights! This project offers a comprehensive view of historical data on new construction sales, including the count of unique home sales, median sale prices, and price per square foot across various geographic regions.
+Welcome to BuildTrack Insights! Our platform provides a comprehensive look into historical data on new construction sales, including unique home sales count, median sale prices, and price per square foot across various geographic regions. Explore the trends shaping the real estate market and gain valuable insights to inform your decisions. Dive into the data and uncover key patterns to help you navigate the world of real estate with confidence.
+
 ## Features
 
 - View historical data on new construction sales.
